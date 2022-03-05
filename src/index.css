@@ -2,7 +2,7 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:400);
 @import url(http://fonts.googleapis.com/css?family=Merienda+One:400);
 
-button {
+.button {
   font-family: "Lato", Arial, Helvetica, sans-serif;
   background-color: none;
   outline: none;
@@ -106,4 +106,21 @@ ul {
 .game-board,
 .moves {
   display: inline;
+}
+
+.container {
+  display: block;
+  text-align: center;
+  justify-content: center;
+}
+
+.buttonPlayAgain {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
