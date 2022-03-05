@@ -1,5 +1,6 @@
-This was my first react project. I followed the official react tutorial to create functionality and then applied some self-chosen styles.
+## Tic-tac-Toe Game in React with hooks
+Updated version of my old project. 
 
-<img src="https://drive.google.com/uc?export=view&id=1NJ7SaPzcTXtWYm6GSvi2OKxnUXmu0xHl" alt="game screenshot"/>
+
 
 
